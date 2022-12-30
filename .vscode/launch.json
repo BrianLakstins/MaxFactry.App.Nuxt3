@@ -5,7 +5,7 @@
   "version": "0.2.0",
   "configurations": [   
     {
-      "name": "Launch via NPM",
+      "name": "Nuxt3 dev",
       "request": "launch",
       "runtimeArgs": [
         "run",
