@@ -8,6 +8,9 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "3.0.0"
+    "nuxt": "3.0.0",
+    "@nuxt/types": "^2.15.8"
+  },
+  "dependencies": {
   }
 }
